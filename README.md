@@ -2,7 +2,7 @@
 
 Sistema Desktop desenvolvido em Java utilizando arquitetura MVC, DAO e Builder Pattern para gerenciamento de funcionários.
 
-# Tecnologias Utilizadas
+Tecnologias Utilizadas
 Java
 Java Swing
 MySQL
